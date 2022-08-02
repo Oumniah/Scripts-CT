@@ -1,0 +1,3 @@
+@echo off
+start C:\Users\sclient\Desktop\Scripts\ETL_KPI\etl_bus_bo.bat
+exit /B
